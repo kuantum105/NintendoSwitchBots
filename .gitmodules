@@ -1,0 +1,3 @@
+[submodule "SwitchInputEmulator"]
+	path = SwitchInputEmulator
+	url = https://github.com/wchill/SwitchInputEmulator.git
